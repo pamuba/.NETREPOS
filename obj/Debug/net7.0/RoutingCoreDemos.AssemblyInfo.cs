@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RoutingCoreDemos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd25063a56bc8a9b1e198ec5d21482f46841e8ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+521e4612201ef88d4066ae03ec06d0cc9b3605cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("RoutingCoreDemos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RoutingCoreDemos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
